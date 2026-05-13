@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 160" width="480" height="160">
+  <rect width="480" height="160" fill="#FBF7F0"/>
+  <text x="240" y="105"
+        font-family="Lora, Georgia, 'Times New Roman', serif"
+        font-size="84"
+        font-weight="500"
+        text-anchor="middle"
+        fill="#6B4226"
+        letter-spacing="-2">levado</text>
+  <!-- Subtle scoring mark accent under the wordmark -->
+  <path d="M 175 122 Q 240 130 305 122" stroke="#C8862E" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.85"/>
+</svg>
